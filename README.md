@@ -1,18 +1,22 @@
-## Getting Started
+# Calculadora Básica
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto simples de uma calculadora básica para operações aritméticas essenciais.
 
-## Folder Structure
+Recursos:
+- Adição, subtração, multiplicação e divisão
+- Interface simples e intuitiva
+- Tratamento básico de erros (divisão por zero)
 
-The workspace contains two folders by default, where:
+Como usar:
+1. Execute o programa (por exemplo: python calculadora.py)
+2. Insira dois números e escolha a operação desejada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Exemplo de operações suportadas:
+- 5 + 3 = 8
+- 10 - 4 = 6
+- 6 * 7 = 42
+- 8 / 2 = 4
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Contribuições são bem-vindas: abra issues ou pull requests com melhorias.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
